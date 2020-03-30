@@ -21,12 +21,12 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #86AAAB!important;
+	background-color: #B6CFD0!important;
 	background-image: url("img/concrete-wall");
 }
 
 .text-primary {
-	color: #86AAAB!important;
+	color: #B6CFD0!important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -34,19 +34,19 @@ h1 .text-primary {
 }
 
 a {
-	color: #86AAAB;
+	color: #B6CFD0;
 }
 
 a:active, a:focus, a:hover {
-	color: #86AAAB;
+	color: #B6CFD0;
 }
 
 .social-icons a:hover {
-	background-color: #86AAAB;
+	background-color: #B6CFD0;
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #86AAAB;
+    color: #B6CFD0;
 }
 
 .graph_set {
@@ -64,7 +64,7 @@ a:active, a:focus, a:hover {
 
 .timeline::after {
   content: '';
-  background-color: #86AAAB;
+  background-color: #B6CFD0;
   position: absolute;
   width: 6px;
   top: 0;
@@ -88,7 +88,7 @@ a:active, a:focus, a:hover {
   height: 25px;
   right: -12px;
   background-color: white;
-  border: 4px solid #86AAAB;
+  border: 4px solid #B6CFD0;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
