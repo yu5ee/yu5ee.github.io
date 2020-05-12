@@ -6,6 +6,26 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 }
+div.tom {
+	margin:5px;
+	float:center;
+	width:300px;
+	background-color: #DCDDDE;
+}
+div#flex_tom{
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+div.tom img{
+	width:100%;
+	height:auto;
+}
+div.jerry{
+	padding:0;
+	text-align:center;
+}
 
 .subheading {
 	font-family: 'Noto Sans TC', sans-serif;
