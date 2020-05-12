@@ -6,23 +6,23 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform: none;
 }
-div.123 {
+div.emm {
 	margin:5px;
 	float:center;
 	width:300px;
 	background-color: #DCDDDE;
 }
-div#flex_123{
+div#flex_emm{
 	display: flex;
 	justify-content: flex-start;
 	flex-wrap: wrap;
 	flex-direction: row;
 }
-div.123 img{
+div.emm img{
 	width:100%;
 	height:auto;
 }
-div.123{
+div.emm{
 	padding:0;
 	text-align:center;
 }
