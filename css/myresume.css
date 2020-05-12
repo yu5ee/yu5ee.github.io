@@ -12,17 +12,17 @@ div.tom {
 	width:300px;
 	background-color: #DCDDDE;
 }
-div#flex_tom{
+div#flex_123{
 	display: flex;
 	justify-content: flex-start;
 	flex-wrap: wrap;
 	flex-direction: row;
 }
-div.tom img{
+div.123 img{
 	width:100%;
 	height:auto;
 }
-div.jerry{
+div.123{
 	padding:0;
 	text-align:center;
 }
